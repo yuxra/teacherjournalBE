@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TeacherJournal.Api.props" />
-</Project>
